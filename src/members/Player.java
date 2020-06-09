@@ -1,7 +1,13 @@
 package members;
 
 import java.util.ArrayList;
-
+/**player class
+ * @author  Ahmed Emad
+ * @author Ahmed Rashad
+ * @author Ebrahim Samir
+ * @author  Ahmed Omar
+ *@author  Karim Abd elhamed
+ */
 public class Player extends User {
 
     public Player() {

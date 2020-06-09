@@ -1,5 +1,11 @@
 package members;
-
+/**user class
+ * @author  Ahmed Emad
+ * @author Ahmed Rashad
+ * @author Ebrahim Samir
+ * @author  Ahmed Omar
+ *@author  Karim Abd elhamed
+ */
  public class User {
     private String name;
     private String address;

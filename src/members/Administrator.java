@@ -3,7 +3,13 @@ package members;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-
+/**Admin Class
+ * @author  Ahmed Emad
+ * @author Ahmed Rashad
+ * @author Ebrahim Samir
+ * @author  Ahmed Omar
+ *@author  Karim Abd elhamed
+ */
 public class Administrator extends User {
     public static final int PLAYER = 0;
     public static final int PLAYGROUND_OWNER = 1;

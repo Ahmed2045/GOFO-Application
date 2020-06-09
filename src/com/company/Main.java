@@ -6,7 +6,13 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+/**main class
+ * @author  Ahmed Emad
+ * @author Ahmed Rashad
+ * @author Ebrahim Samir
+ * @author  Ahmed Omar
+ *@author  Karim Abd elhamed
+ */
 public class Main {
 
     public static void main(String[] args) {

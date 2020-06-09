@@ -1,7 +1,13 @@
 package members;
 
 import java.util.ArrayList;
-
+/**playground functions class
+ * @author  Ahmed Emad
+ * @author Ahmed Rashad
+ * @author Ebrahim Samir
+ * @author  Ahmed Omar
+ *@author  Karim Abd elhamed
+ */
 public class Playground {
     private String name;
     private String address;

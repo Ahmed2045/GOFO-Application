@@ -1,7 +1,13 @@
 package members;
 
 import java.util.ArrayList;
-
+/**playground owner class
+ * @author  Ahmed Emad
+ * @author Ahmed Rashad
+ * @author Ebrahim Samir
+ * @author  Ahmed Omar
+ *@author  Karim Abd elhamed
+ */
 public class Owner extends User {
 
     public Owner(){ role = Administrator.PLAYGROUND_OWNER; }

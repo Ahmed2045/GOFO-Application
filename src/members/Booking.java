@@ -1,7 +1,13 @@
 package members;
 
 public class Booking {
-
+    /**booking class
+     * @author  Ahmed Emad
+     * @author Ahmed Rashad
+     * @author Ebrahim Samir
+     * @author  Ahmed Omar
+     *@author  Karim Abd elhamed
+     */
     private String slot; // Stores booked slot
     private Playground playground; // Stores booked playground
 
